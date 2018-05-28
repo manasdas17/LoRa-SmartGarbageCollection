@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name bin)(type KiCad)(uri ${KIPRJMOD}/binLora.pretty)(options "")(descr ""))
+)

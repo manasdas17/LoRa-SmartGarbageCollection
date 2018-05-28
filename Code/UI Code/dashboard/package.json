@@ -1,0 +1,33 @@
+{
+  "name": "uglify",
+  "version": "1.0.0",
+  "description": "zonta demo with uglify-js for obfuscation and minification",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+  },
+  "keywords": [
+    "cassandra"
+  ],
+  "author": "Aravind",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.4",
+    "body-parser": "^1.15.2",
+    "cassandra-driver": "^3.1.6",
+    "cookie-parser": "^1.4.3",
+    "crypto": "0.0.3",
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "express-cassandra": "^1.5.0",
+    "express-session": "^1.14.2",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "morgan": "^1.7.0",
+    "path": "^0.12.7",
+    "pubnub": "^3.16.5",
+    "uglify-js": "^2.7.5",
+    "util": "^0.10.3"
+  }
+}
